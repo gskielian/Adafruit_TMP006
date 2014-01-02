@@ -3,7 +3,7 @@ Making a Robo-Chef
 
 > We can build it. We have the technology.
 
--- Some Awesome TV Show
+-- _Some Awesome TV Show_
 
 ## :fork_and_knife: It's Time... to make a Robo-Chef.:fork_and_knife:
 
