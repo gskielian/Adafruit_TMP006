@@ -40,7 +40,7 @@ Now for the mechanical challenge, we will need to create a chassis which can pee
 
 > I for one, welcome our new Robo-Chefs.
 
--- what each of us is thinking right now
+-- _what each of us is thinking right now_
 
 
 ## Credits and Original README.txt
